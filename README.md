@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Saeed AWan</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Saeed Awan</h1>
 <h3 align="center">A passionate Website developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Banking App**
