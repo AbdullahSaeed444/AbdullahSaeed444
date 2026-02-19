@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Banking App**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 👨‍💻 All of my projects are available at [codivico.com](codivico.com)
 
