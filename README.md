@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Saeed Awan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Banking App**
+- 🔭 I’m currently working on **Sale Sync**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
